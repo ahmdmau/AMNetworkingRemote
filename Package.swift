@@ -3,9 +3,9 @@
 
 import PackageDescription
 
-let version = "0.0.2"
+let version = "0.0.3"
 let moduleName = "AMNetworking"
-let checksum = "f4d40db74e0961c662736f13b7f1394542b49a7f05916bc37842146be48a08ce"
+let checksum = "d5d12d51e357144d19a8aa7bf973cb941dac76b0a89d2720a8998ae72db6d0d0"
 
 let package = Package(
     name: moduleName,
